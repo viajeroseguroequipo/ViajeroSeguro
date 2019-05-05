@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Viajero Seguro</string>
+    <string name="BotonSiguiente">INFORMACION DEL PAIS</string>
+    <string name="BotonSiguiente1">INFORMACION DEL PAIS</string>
+    <string name="BotonSiguiente2">TRAMITES DE INGRESO</string>
+    <string name="BotonSiguiente3">LUGARES TURISTICOS</string>
+    <string name="BotonAnterior">Principal</string>
+    <string name="tv1">Que Buscas?</string>
+    <string name="tv2">INFORMACION GENERAL</string>
+    <string name="tv3">TRAMITES DE INGRESO SELECCIONE</string>
+    <string name="tv4">INFORMACION GENERAL</string>
+    <string name="tva">A los colombianos nos sobran razones para sentirnos orgullosos de nuestro país y la mejor forma de demostrarlo al mundo es vistiendo los colores de nuestra bandera: amarillo, azul y rojo; para juntarnos a cantar el himno nacional a todo pulmón.
+
+¿Qué hace especial a la bandera? Que refleja la riqueza y los contrastes de nuestras regiones naturales, simbolizada en el amarillo; la abundancia en fauna y flora de Colombia, un país con costas en el Mar Caribe y el Océano Pacífico que se ven reflejados en el azul; la diversidad étnica de nuestro pueblo y la riqueza de nuestro patrimonio cultural y artístico, marcado por diferentes etapas históricas en donde se destacan diferentes héroes, cuya sangre está representada en el rojo de la bandera de Colombia.</string>
+    <string name="tvi1"> </string>
+    <string name="welcome">Bienvenido (a)</string>
+    <string name="title_activity_main2">INFORMACION DEL PAIS</string>
+    <string name="title_activity_main3">TRAMITES DE INGRESO</string>
+
+</resources>
