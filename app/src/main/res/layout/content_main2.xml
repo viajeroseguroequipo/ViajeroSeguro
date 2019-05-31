@@ -6,19 +6,80 @@
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context=".Main2Activity"
-    tools:showIn="@layout/activity_main2">
+    tools:showIn="@layout/activity_main2"
+    android:background="@mipmap/ic1_background_11">
 
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="194dp"
-        android:layout_height="42dp"
-        android:text="@string/tv2"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
-        android:textColor="@color/design_default_color_primary"
-        android:textSize="18sp"
-        android:textStyle="bold"
-        tools:layout_editor_absoluteX="44dp"
-        tools:layout_editor_absoluteY="33dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="8dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+
+            <Button
+                android:id="@+id/fr1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#28DFBC8C"
+                android:text="ALOJAMIENTO"
+                android:textColorLink="#FFFFFF"
+                android:textColor="#FFFFFF" />
+
+
+            <Button
+                android:id="@+id/fr2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:background="#28DFBC8C"
+                android:text="TRASNPORTE"
+                android:textColorLink="#FFFFFF"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/fr3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:background="#28DFBC8C"
+                android:text="VISADOS"
+                android:textColorLink="#FFFFFF"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/fr4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:background="#28DFBC8C"
+                android:text="SITIOS TURISTICOS"
+                android:textColorLink="#FFFFFF"
+                android:textColor="#FFFFFF"/>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <FrameLayout
+        android:id="@+id/contenedor"
+        android:layout_width="match_parent"
+        android:layout_height="455dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:layout_editor_absoluteY="72dp">
+
+
+    </FrameLayout>
+
 
     <Button
         android:id="@+id/button2"
@@ -28,26 +89,6 @@
         android:onClick="Anterior"
         android:text="@string/tv2"
         app:layout_constraintBottom_toBottomOf="parent"
-        tools:layout_editor_absoluteX="44dp" />
-
-    <androidx.constraintlayout.widget.Guideline
-        android:id="@+id/guideline"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.05109489" />
-
-    <EditText
-        android:id="@+id/editText2"
-        android:layout_width="344dp"
-        android:layout_height="253dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginBottom="16dp"
-        android:ems="5"
-        android:inputType="textMultiLine"
-        android:text="@string/tva"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:layout_editor_absoluteX="28dp" />
+        tools:layout_editor_absoluteX="40dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
