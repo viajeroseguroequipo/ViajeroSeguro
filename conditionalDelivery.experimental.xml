@@ -1,0 +1,5 @@
+<application>
+  <component name="ConditionalDeliverySettings">
+    <option name="USE_CONDITIONAL_DELIVERY_SYNC" value="true" />
+  </component>
+</application>
