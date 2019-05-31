@@ -1,20 +1,43 @@
 <resources>
     <string name="app_name">Viajero Seguro</string>
-    <string name="BotonSiguiente">INFORMACION DEL PAIS</string>
+    <string name="BotonSiguiente">QUE DEBO SABER ANTES DE VIAJAR</string>
     <string name="BotonSiguiente1">INFORMACION DEL PAIS</string>
-    <string name="BotonSiguiente2">TRAMITES DE INGRESO</string>
-    <string name="BotonSiguiente3">LUGARES TURISTICOS</string>
+    <string name="BotonSiguiente2">PREPARO MI VIAJE</string>
+    <string name="BotonSiguiente3">DURANTE EL VIAJE</string>
+    <string name="BotonSiguiente4">DESPUES DEL VIAJE</string>
     <string name="BotonAnterior">Principal</string>
     <string name="tv1">Que Buscas?</string>
     <string name="tv2">INFORMACION GENERAL</string>
     <string name="tv3">TRAMITES DE INGRESO SELECCIONE</string>
     <string name="tv4">INFORMACION GENERAL</string>
-    <string name="tva">A los colombianos nos sobran razones para sentirnos orgullosos de nuestro país y la mejor forma de demostrarlo al mundo es vistiendo los colores de nuestra bandera: amarillo, azul y rojo; para juntarnos a cantar el himno nacional a todo pulmón.
+    <string name="tva">Estos son hoteles baratos en Palomino más reservados en el último minuto:</string>
+    <string name="tvb">Colombia tiene muchos medios de transporte, cuenta con vías terrestres, férreas, fluviales y aéreas. Su conocimiento permite mejor desplazamiento por el territorio. Las principales ciudades tienen un buen servicio público.:</string>
+    <string name="tvi1">VILLA PIERINO CASA DE LUJO:
 
-¿Qué hace especial a la bandera? Que refleja la riqueza y los contrastes de nuestras regiones naturales, simbolizada en el amarillo; la abundancia en fauna y flora de Colombia, un país con costas en el Mar Caribe y el Océano Pacífico que se ven reflejados en el azul; la diversidad étnica de nuestro pueblo y la riqueza de nuestro patrimonio cultural y artístico, marcado por diferentes etapas históricas en donde se destacan diferentes héroes, cuya sangre está representada en el rojo de la bandera de Colombia.</string>
-    <string name="tvi1"> </string>
+Cuenta con tres restaurantes, cuatro bares, una cafetería, piscina de agua dulce, centro de deportes náuticos, spa, gimnasio, tienda de artesanías y los más altos estándares de hospitalidad y calidad.
+ </string>
+    <string name="tvi2">CASA NAVEGATE CHOLON:
+
+Cuenta con todas las comodidades de un hotel de lujo: tres habitaciones, tres baños, un comedor japonés, sala, piscina, cuatro asoleadotas, energía solar, aire acondicionado y una cocina dotada con todos los servicios necesarios para una estancia confortable.
+ </string>
+    <string name="tvi3">PARQUE TAYRONA:
+
+Dentro de la Concesión Tayrona, además de disfrutar de la suave arena, se puede programar diferentes actividades como senderismo a Pueblito, Cabo San Juan, Playa Cristal y Neguanje.
+</string>
+    <string name="tvi4">Transporte Aéreo</string>
+    <string name="tvi5">Transporte Fluvial</string>
+    <string name="tvi6">Trasporte Marítimo</string>
+    <string name="tvi7">Transporte Férreo</string>
+    <string name="tvi8">Transporte Terrestre</string>
+    <string name="tvi9"></string>
+    <string name="tvi10"></string>
+
     <string name="welcome">Bienvenido (a)</string>
     <string name="title_activity_main2">INFORMACION DEL PAIS</string>
     <string name="title_activity_main3">TRAMITES DE INGRESO</string>
+    <string name="title_activity_main4">Main4Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Frame 1    </string>
 
 </resources>
