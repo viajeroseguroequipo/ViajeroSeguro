@@ -6,8 +6,7 @@
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context=".Main2Activity"
-    tools:showIn="@layout/activity_main2"
-    android:background="@mipmap/ic1_background_11">
+    tools:showIn="@layout/activity_main2">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -27,43 +26,39 @@
 
             <Button
                 android:id="@+id/fr1"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="#28DFBC8C"
-                android:text="ALOJAMIENTO"
-                android:textColorLink="#FFFFFF"
-                android:textColor="#FFFFFF" />
+                android:layout_width="100dp"
+                android:layout_height="60dp"
+                android:background="#49A8F1"
+                android:textColor="#FFFFFF"
+                android:text="ALOJAMIENTO" />
 
 
             <Button
                 android:id="@+id/fr2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="100dp"
+                android:layout_height="60dp"
                 android:layout_marginLeft="5dp"
-                android:background="#28DFBC8C"
-                android:text="TRASNPORTE"
-                android:textColorLink="#FFFFFF"
-                android:textColor="#FFFFFF" />
+                android:background="#49A8F1"
+                android:textColor="#FFFFFF"
+                android:text="TRASNPORTE" />
 
             <Button
                 android:id="@+id/fr3"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="80dp"
+                android:layout_height="60dp"
                 android:layout_marginLeft="5dp"
-                android:background="#28DFBC8C"
-                android:text="VISADOS"
-                android:textColorLink="#FFFFFF"
-                android:textColor="#FFFFFF" />
+                android:background="#49A8F1"
+                android:textColor="#FFFFFF"
+                android:text="VISADOS" />
 
             <Button
                 android:id="@+id/fr4"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="140dp"
+                android:layout_height="60dp"
                 android:layout_marginLeft="5dp"
-                android:background="#28DFBC8C"
-                android:text="SITIOS TURISTICOS"
-                android:textColorLink="#FFFFFF"
-                android:textColor="#FFFFFF"/>
+                android:background="#49A8F1"
+                android:textColor="#FFFFFF"
+                android:text="SITIOS TURISTICOS"/>
         </LinearLayout>
 
 
@@ -83,12 +78,15 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="wrap_content"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="16dp"
+        android:layout_marginTop="445dp"
+        android:layout_marginLeft="10dp"
         android:onClick="Anterior"
-        android:text="@string/tv2"
-        app:layout_constraintBottom_toBottomOf="parent"
-        tools:layout_editor_absoluteX="40dp" />
+        android:text="@string/BotonAnterior"
+        android:background="#49A8F1"
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
