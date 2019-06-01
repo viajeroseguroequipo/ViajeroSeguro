@@ -21,15 +21,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    public void Siguiente(View view)  {
 
-        Intent siguiente = new Intent(this, Main2Activity.class);
-        startActivity(siguiente);
-    }
+    public void Ingresar(View view)  {
 
-    public void Tramite(View viewt)  {
-
-        Intent tramite = new Intent(this, Main3Activity.class);
-        startActivity(tramite);
+        Intent ingresar = new Intent(this, Main5Activity.class);
+        startActivity(ingresar);
     }
 }
