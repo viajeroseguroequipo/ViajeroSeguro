@@ -1,43 +1,40 @@
 <resources>
     <string name="app_name">Viajero Seguro</string>
-    <string name="BotonSiguiente">QUE DEBO SABER ANTES DE VIAJAR</string>
+    <string name="BotonR">REGISTRARME</string>
+    <string name="BotonSiguiente">INFORMACION DEL PAIS</string>
     <string name="BotonSiguiente1">INFORMACION DEL PAIS</string>
     <string name="BotonSiguiente2">PREPARO MI VIAJE</string>
     <string name="BotonSiguiente3">DURANTE EL VIAJE</string>
     <string name="BotonSiguiente4">DESPUES DEL VIAJE</string>
-    <string name="BotonAnterior">Principal</string>
-    <string name="tv1">Que Buscas?</string>
+    <string name="BotonSiguiente5">BOGOTA</string>
+    <string name="BotonAnterior">GUIA COMUNIDAD</string>
+    <string name="tv1">En que Podemos Ayudarte?</string>
     <string name="tv2">INFORMACION GENERAL</string>
     <string name="tv3">TRAMITES DE INGRESO SELECCIONE</string>
     <string name="tv4">INFORMACION GENERAL</string>
-    <string name="tva">Estos son hoteles baratos en Palomino más reservados en el último minuto:</string>
-    <string name="tvb">Colombia tiene muchos medios de transporte, cuenta con vías terrestres, férreas, fluviales y aéreas. Su conocimiento permite mejor desplazamiento por el territorio. Las principales ciudades tienen un buen servicio público.:</string>
-    <string name="tvi1">VILLA PIERINO CASA DE LUJO:
-
-Cuenta con tres restaurantes, cuatro bares, una cafetería, piscina de agua dulce, centro de deportes náuticos, spa, gimnasio, tienda de artesanías y los más altos estándares de hospitalidad y calidad.
- </string>
-    <string name="tvi2">CASA NAVEGATE CHOLON:
-
-Cuenta con todas las comodidades de un hotel de lujo: tres habitaciones, tres baños, un comedor japonés, sala, piscina, cuatro asoleadotas, energía solar, aire acondicionado y una cocina dotada con todos los servicios necesarios para una estancia confortable.
- </string>
-    <string name="tvi3">PARQUE TAYRONA:
-
-Dentro de la Concesión Tayrona, además de disfrutar de la suave arena, se puede programar diferentes actividades como senderismo a Pueblito, Cabo San Juan, Playa Cristal y Neguanje.
-</string>
-    <string name="tvi4">Transporte Aéreo</string>
-    <string name="tvi5">Transporte Fluvial</string>
-    <string name="tvi6">Trasporte Marítimo</string>
-    <string name="tvi7">Transporte Férreo</string>
-    <string name="tvi8">Transporte Terrestre</string>
+    <string name="tva">Tipos de Alojamiento:</string>
+    <string name="tvb">Medios de Transporte: </string>
+    <string name="tvc">Visados: </string>
+    <string name="tvd">Sitios Turisticos: </string>
+    <string name="tvi1">En la ciudad tienes todo tipo de opciones hoteles de 1 a 5 estrellas de acuerdo a su presupuesto.</string>
+    <string name="tvi2">También puedes usar alquiler de apartamentos, hostales que pueden ser reservados por internet</string>
+    <string name="tvi3">Ciudad: </string>
+    <string name="tvi4">Existe una cobertura de transporte aéreo y de acuerdo a su presupuesto puede ser la mejor opción tomando en cuenta que las distancia son largas entre las principales ciudades </string>
+    <string name="tvi5">Si desea conocer mas de los pequeños pueblos también es una excelente opción el transporte terrestre, hay empresas especializadas así mismo como tours privados</string>
+    <string name="tvi6">Para el país se deben revisar los requisitos de entrada y tiempo de permanencia</string>
+    <string name="tvi7">Para su nacionalidad no necesita visa, si su permanencia va a ser inferior a 60 días solo siga las siguientes recomendaciones de viaje Aquí >></string>
+    <string name="tvi8">Colombia es un país multidiverso, donde puede tener experiencias totalmente diferentes pero una cosa en común es la calidez de su gente.
+Estas son algunas rutas turísticas más importantes del país.</string>
     <string name="tvi9"></string>
     <string name="tvi10"></string>
 
-    <string name="welcome">Bienvenido (a)</string>
+    <string name="welcome">Registrarse</string>
     <string name="title_activity_main2">INFORMACION DEL PAIS</string>
     <string name="title_activity_main3">TRAMITES DE INGRESO</string>
     <string name="title_activity_main4">Main4Activity</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Frame 1    </string>
+    <string name="title_activity_main5">INFORMACION GENERAL</string>
 
 </resources>
