@@ -1,13 +1,14 @@
 <resources>
     <string name="app_name">Viajero Seguro</string>
     <string name="BotonR">REGISTRARME</string>
-    <string name="BotonSiguiente">INFORMACION DEL PAIS</string>
+    <string name="BotonSiguiente">QUE DEBO SABER ANTES DE VIAJAR</string>
     <string name="BotonSiguiente1">INFORMACION DEL PAIS</string>
     <string name="BotonSiguiente2">PREPARO MI VIAJE</string>
     <string name="BotonSiguiente3">DURANTE EL VIAJE</string>
     <string name="BotonSiguiente4">DESPUES DEL VIAJE</string>
     <string name="BotonSiguiente5">BOGOTA</string>
     <string name="BotonAnterior">GUIA COMUNIDAD</string>
+    <string name="BotonSalir">CERRAR SESION</string>
     <string name="tv1">En que Podemos Ayudarte?</string>
     <string name="tv2">INFORMACION GENERAL</string>
     <string name="tv3">TRAMITES DE INGRESO SELECCIONE</string>
@@ -29,7 +30,7 @@ Estas son algunas rutas turísticas más importantes del país.</string>
     <string name="tvi10"></string>
 
     <string name="welcome">Registrarse</string>
-    <string name="title_activity_main2">INFORMACION DEL PAIS</string>
+    <string name="title_activity_main2">QUE DEBO SABER</string>
     <string name="title_activity_main3">TRAMITES DE INGRESO</string>
     <string name="title_activity_main4">Main4Activity</string>
 
