@@ -32,10 +32,18 @@ public class Main5Activity extends AppCompatActivity {
         startActivity(siguiente);
     }
 
+
+    public void Salir(View viewt)  {
+
+        Intent salir = new Intent(this, MainActivity.class);
+        startActivity(salir);
+    }
+
+    /*
     public void Tramite(View viewt)  {
 
         Intent tramite = new Intent(this, Main3Activity.class);
         startActivity(tramite);
     }
-
+*/
 }
