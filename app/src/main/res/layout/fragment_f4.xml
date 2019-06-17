@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="50dp"
+    tools:context=".f4">
+
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="324dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="25dp"
+        android:text="@string/tv2"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="#49A8F1"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/editText2"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="15dp"
+        android:inputType="textMultiLine"
+        android:text="@string/tvd"
+        android:textColor="#49A8F1"
+        android:textSize="20dp"
+        android:textStyle="normal"
+        android:typeface="serif"
+        app:fontFamily="sans-serif-black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="370dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="150dp"
+        android:text="@string/tvi8"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="#49A8F1"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/textView09"
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="240dp"
+        android:text="San Andres"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="#49A8F1"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button09"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="175dp"
+        android:layout_marginTop="230dp"
+        android:background="#49A8F1"
+        android:textSize="14sp"
+        android:text="ECOTURISMO"
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="280dp"
+        android:text="Medellin"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="#49A8F1"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="175dp"
+        android:layout_marginTop="275dp"
+        android:background="#49A8F1"
+        android:textSize="14sp"
+        android:text="HISTORIA"
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="320dp"
+        android:text="Bogota"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="#49A8F1"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="175dp"
+        android:layout_marginTop="320dp"
+        android:background="#49A8F1"
+        android:textSize="14sp"
+        android:text="PLAYA"
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,20 +1,41 @@
 <resources>
     <string name="app_name">Viajero Seguro</string>
-    <string name="BotonSiguiente">INFORMACION DEL PAIS</string>
+    <string name="BotonR">REGISTRARME</string>
+    <string name="BotonSiguiente">QUE DEBO SABER ANTES DE VIAJAR</string>
     <string name="BotonSiguiente1">INFORMACION DEL PAIS</string>
-    <string name="BotonSiguiente2">TRAMITES DE INGRESO</string>
-    <string name="BotonSiguiente3">LUGARES TURISTICOS</string>
-    <string name="BotonAnterior">Principal</string>
-    <string name="tv1">Que Buscas?</string>
+    <string name="BotonSiguiente2">PREPARO MI VIAJE</string>
+    <string name="BotonSiguiente3">DURANTE EL VIAJE</string>
+    <string name="BotonSiguiente4">DESPUES DEL VIAJE</string>
+    <string name="BotonSiguiente5">BOGOTA</string>
+    <string name="BotonAnterior">GUIA COMUNIDAD</string>
+    <string name="BotonSalir">CERRAR SESION</string>
+    <string name="tv1">En que Podemos Ayudarte?</string>
     <string name="tv2">INFORMACION GENERAL</string>
     <string name="tv3">TRAMITES DE INGRESO SELECCIONE</string>
     <string name="tv4">INFORMACION GENERAL</string>
-    <string name="tva">A los colombianos nos sobran razones para sentirnos orgullosos de nuestro país y la mejor forma de demostrarlo al mundo es vistiendo los colores de nuestra bandera: amarillo, azul y rojo; para juntarnos a cantar el himno nacional a todo pulmón.
+    <string name="tva">Tipos de Alojamiento:</string>
+    <string name="tvb">Medios de Transporte: </string>
+    <string name="tvc">Visados: </string>
+    <string name="tvd">Sitios Turisticos: </string>
+    <string name="tvi1">En la ciudad tienes todo tipo de opciones hoteles de 1 a 5 estrellas de acuerdo a su presupuesto.</string>
+    <string name="tvi2">También puedes usar alquiler de apartamentos, hostales que pueden ser reservados por internet</string>
+    <string name="tvi3">Ciudad: </string>
+    <string name="tvi4">Existe una cobertura de transporte aéreo y de acuerdo a su presupuesto puede ser la mejor opción tomando en cuenta que las distancia son largas entre las principales ciudades </string>
+    <string name="tvi5">Si desea conocer mas de los pequeños pueblos también es una excelente opción el transporte terrestre, hay empresas especializadas así mismo como tours privados</string>
+    <string name="tvi6">Para el país se deben revisar los requisitos de entrada y tiempo de permanencia</string>
+    <string name="tvi7">Para su nacionalidad no necesita visa, si su permanencia va a ser inferior a 60 días solo siga las siguientes recomendaciones de viaje Aquí >></string>
+    <string name="tvi8">Colombia es un país multidiverso, donde puede tener experiencias totalmente diferentes pero una cosa en común es la calidez de su gente.
+Estas son algunas rutas turísticas más importantes del país.</string>
+    <string name="tvi9"></string>
+    <string name="tvi10"></string>
 
-¿Qué hace especial a la bandera? Que refleja la riqueza y los contrastes de nuestras regiones naturales, simbolizada en el amarillo; la abundancia en fauna y flora de Colombia, un país con costas en el Mar Caribe y el Océano Pacífico que se ven reflejados en el azul; la diversidad étnica de nuestro pueblo y la riqueza de nuestro patrimonio cultural y artístico, marcado por diferentes etapas históricas en donde se destacan diferentes héroes, cuya sangre está representada en el rojo de la bandera de Colombia.</string>
-    <string name="tvi1"> </string>
-    <string name="welcome">Bienvenido (a)</string>
-    <string name="title_activity_main2">INFORMACION DEL PAIS</string>
+    <string name="welcome">Registrarse</string>
+    <string name="title_activity_main2">QUE DEBO SABER</string>
     <string name="title_activity_main3">TRAMITES DE INGRESO</string>
+    <string name="title_activity_main4">Main4Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Frame 1    </string>
+    <string name="title_activity_main5">INFORMACION GENERAL</string>
 
 </resources>
