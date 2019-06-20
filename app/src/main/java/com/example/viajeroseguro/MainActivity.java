@@ -24,7 +24,19 @@ public class MainActivity extends AppCompatActivity {
 
     public void Ingresar(View view)  {
 
-        Intent ingresar = new Intent(this, Main5Activity.class);
+        Intent ingresar = new Intent(this, MapsActivity.class);
         startActivity(ingresar);
+    }
+
+    public void Siguiente(View view)  {
+
+        Intent siguiente = new Intent(this, Main2Activity.class);
+        startActivity(siguiente);
+    }
+
+    public void Registro(View view)  {
+
+        Intent registro = new Intent(this, Main6Activity .class);
+        startActivity(registro);
     }
 }
