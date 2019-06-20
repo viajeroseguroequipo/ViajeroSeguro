@@ -75,7 +75,7 @@
         android:layout_marginLeft="175dp"
         android:layout_marginTop="190dp"
         android:background="#49A8F1"
-        android:text="Francia"
+        android:text="Colombia"
         android:textColor="#FFFFFF"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
