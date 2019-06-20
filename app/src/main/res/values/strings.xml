@@ -1,15 +1,17 @@
 <resources>
     <string name="app_name">Viajero Seguro</string>
-    <string name="BotonR">REGISTRARME</string>
+    <string name="BotonR">REGISTRARME >></string>
     <string name="BotonSiguiente">QUE DEBO SABER ANTES DE VIAJAR</string>
     <string name="BotonSiguiente1">INFORMACION DEL PAIS</string>
     <string name="BotonSiguiente2">PREPARO MI VIAJE</string>
     <string name="BotonSiguiente3">DURANTE EL VIAJE</string>
     <string name="BotonSiguiente4">DESPUES DEL VIAJE</string>
-    <string name="BotonSiguiente5">BOGOTA</string>
+    <string name="BotonSiguiente5">MEDELLIN</string>
     <string name="BotonAnterior">GUIA COMUNIDAD</string>
     <string name="BotonSalir">CERRAR SESION</string>
     <string name="tv1">En que Podemos Ayudarte?</string>
+    <string name="empe">Antes de Empezar Indicanos que ciudad Deseas Conocer ↓</string>
+    <string name="empe_ci">Has seleccionado la Ciudad de Colombia: Medellin</string>
     <string name="tv2">INFORMACION GENERAL</string>
     <string name="tv3">TRAMITES DE INGRESO SELECCIONE</string>
     <string name="tv4">INFORMACION GENERAL</string>
@@ -26,7 +28,7 @@
     <string name="tvi7">Para su nacionalidad no necesita visa, si su permanencia va a ser inferior a 60 días solo siga las siguientes recomendaciones de viaje Aquí >></string>
     <string name="tvi8">Colombia es un país multidiverso, donde puede tener experiencias totalmente diferentes pero una cosa en común es la calidez de su gente.
 Estas son algunas rutas turísticas más importantes del país.</string>
-    <string name="tvi9"></string>
+    <string name="cali_info">Hola</string>
     <string name="tvi10"></string>
 
     <string name="welcome">Registrarse</string>
@@ -37,5 +39,12 @@ Estas son algunas rutas turísticas más importantes del país.</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Frame 1    </string>
     <string name="title_activity_main5">INFORMACION GENERAL</string>
+    <string name="title_activity_main6">REGISTRARME >></string>
+    <string name="title_activity_maps">Viajero Seguro Mapa</string>
+    <string name="marker_detail_lating">(%1$.2f, %2$.2f)</string>
+
+
+    <string name="google_maps_key"> COPY THE VALUE FROM GOOGLE CLOUD PLATFORM </string>
 
 </resources>
+
